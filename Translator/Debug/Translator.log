@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(296,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(697,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(700,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(724,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(766,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(905,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(971,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(1010,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(1312,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(1993,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hamad\source\repos\Translator\Translator\Source.cpp(2072,19): warning C4018: '<': signed/unsigned mismatch
+  Translator.vcxproj -> C:\Users\hamad\source\repos\Translator\Debug\Translator.exe

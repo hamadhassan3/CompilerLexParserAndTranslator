@@ -1,0 +1,6 @@
+DataType Name Address
+Integer i 0
+Integer j 4
+Integer first 8
+Integer temp 12
+char a 16

@@ -1,0 +1,37 @@
+1) a = 'x'
+2) out "enter number"
+3) in i
+4) out i
+5) tmp1 = length
+6) i = tmp1
+7) tmp2 = 0
+8) if i > tmp2 goto 10
+9) goto 36
+10) tmp3 = 0
+11) first = tmp3
+12) tmp4 = 1
+13) j = tmp4
+14) if j < i goto 16
+15) goto 21
+16) tmp5 = j
+17) tmp6 = 1
+18) tmp7 = j + tmp6
+19) j = tmp7
+20) goto 14
+21) tmp8 = 1
+22) if j == tmp8 goto 24
+23) goto 26
+24) out "one"
+25) goto 32
+26) tmp9 = 2
+27) elif j == tmp9 goto 29
+28) goto 31
+29) out "two"
+30) goto 32
+31) out "others"
+32) tmp10 = 1
+33) tmp11 = i - tmp10
+34) i = tmp11
+35) goto 8
+36) out "temp is "
+37) out temp
